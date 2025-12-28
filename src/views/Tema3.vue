@@ -120,7 +120,7 @@
                   p.mb-0 Reducción de lesiones musculoesqueléticas y cojeras, gracias a superficies adecuadas, herrado correcto, entrenamiento progresivo y manejo responsable.
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
-                  p.mb-0 Mejor condición corporal, mediante dietas balanceadas, acceso continuo a agua limpia y rutinas de ejercicio
+                  p.mb-0 Mejor condición corporal, mediante dietas balanceadas, acceso continuo a agua limpia y rutinas de ejercicio.
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
                   p.mb-0 Desempeño optimizado, con animales más dispuestos y menos fatigados.
@@ -142,7 +142,7 @@
                   p.mb-0 Mejor trazabilidad, con registros detallados de identificación, tratamientos, movimientos y antecedentes sanitarios.
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
-                  p.mb-0 Respuesta rápida ante brotes, gracias a la existencia de registros y protocolos establecidos
+                  p.mb-0 Respuesta rápida ante brotes, gracias a la existencia de registros y protocolos establecidos.
               
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
@@ -221,10 +221,10 @@
             p.mb-0 Modifica el Código Civil y la Ley 84 de 1989 para reconocer a los animales como “seres sintientes”, no como cosas.
           li.mb-0.d-flex
             i.fas.fa-check-circle.bg-color-3
-            p.mb-0 Su Refuerza el deber legal de brindar un trato digno y respetuoso.
+            p.mb-0 Refuerza el deber legal de brindar un trato digno y respetuoso.
           li.mb-0.d-flex
             i.fas.fa-check-circle.bg-color-3
-            p.mb-0 Su Endurece las sanciones penales y administrativas por maltrato y negligencia, lo cual es especialmente relevante en la actividad equina.
+            p.mb-0 Endurece las sanciones penales y administrativas por maltrato y negligencia, lo cual es especialmente relevante en la actividad equina.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -345,7 +345,7 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
-                  p.mb-0 FAO – Food and Agriculture Organization
+                  p.mb-0 FAO – <em>Food and Agriculture Organization</em>
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
                   p.mb-0 Administra bases de datos de razas, como el Caballo criollo colombiano.
@@ -382,7 +382,7 @@
                   p.mb-0 Autoridad sanitaria oficial del país.
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
-                  p.mb-0 Expide normas técnicas, como la Resolución 7953 de 2017
+                  p.mb-0 Expide normas técnicas, como la Resolución 7953 de 2017.
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
                   p.mb-0 Diseña metodologías e instrumentos de evaluación.
@@ -448,7 +448,7 @@
           img(src="@/assets/curso/tema3/19.png", alt="").mb-4.mb-lg-0
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-8")
-          .div(titulo="WOAH")
+          .div(titulo="<em>WOAH</em>")
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-3
@@ -460,11 +460,11 @@
                 i.fas.fa-check-circle.bg-color-3
                 p.mb-0 Sus principios están integrados en la Resolución ICA 7953 de 2017.
         
-          .div(titulo="FAO")
+          .div(titulo="<em>FAO</em>")
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-3
-                p.mb-0 Promueve buenas prácticas ganaderas, sostenibilidad y bienestar animal..
+                p.mb-0 Promueve buenas prácticas ganaderas, sostenibilidad y bienestar animal.
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-3
                 p.mb-0 Reconoce al Caballo Criollo Colombiano en sus bases de datos de razas.
@@ -472,7 +472,7 @@
                 i.fas.fa-check-circle.bg-color-3
                 p.mb-0 Apoya proyectos de desarrollo sostenible en el sector equino. 
     
-          .div(titulo="ICWE y WESLI")
+          .div(titulo=" <em>ICWE y WESLI</em>")
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-3

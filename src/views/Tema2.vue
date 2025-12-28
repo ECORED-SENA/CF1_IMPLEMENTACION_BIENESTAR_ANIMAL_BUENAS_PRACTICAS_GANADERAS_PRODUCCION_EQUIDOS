@@ -158,7 +158,7 @@
                 p.mb-0 Guadua o madera tratada (preferiblemente inmunizada para evitar hongos y plagas).
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-3
-                p.mb-0 Guadua o madera tratada (preferiblemente inmunizada para evitar hongos y plagas).
+                p.mb-0 Ladrillo o bloque con acabado liso, que impide la acumulación de suciedad y facilita la desinfección.
           .div(titulo="Altura sugerida")
             ul.lista-ul--color
               li.mb-0.d-flex
@@ -757,7 +757,7 @@
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
-        h3.titulo-con-imagen__texto Área de aislamiento sanitarioa
+        h3.titulo-con-imagen__texto Área de aislamiento sanitario
     
     p.mb-5 El área de aislamiento permite el manejo controlado de animales enfermos, heridos o recién ingresados, evitando el contagio o la propagación de enfermedades.
 
@@ -861,7 +861,7 @@
         .titulo-con-imagen.mb-5(data-aos="fade-right")
           .titulo-con-imagen__fondo
             img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
-            h3.titulo-con-imagen__texto Herramientas de aseo y cuidado del animalo
+            h3.titulo-con-imagen__texto Herramientas de aseo y cuidado del animal
     
     p.mb-5 El aseo regular es una práctica esencial para mantener la higiene del animal, prevenir enfermedades de piel, detectar lesiones y fortalecer el vínculo con el cuidador. Para ello, se emplean diversas herramientas manuales y de limpieza general. Las más comunes incluyen:
 
@@ -1061,7 +1061,7 @@
                 p.mb-0 Acceso cercano a la bodega de alimentos y farmacia veterinaria.
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-3
-                p.mb-0 Duchadero contiguo para facilitar el aseo posterior al entrenamiento
+                p.mb-0 Duchadero contiguo para facilitar el aseo posterior al entrenamiento.
     
           .div(titulo="Áreas de trabajo y entrenamiento")
             p Espacios destinados al ejercicio, la doma y las rutinas físicas del équido.
@@ -1087,7 +1087,7 @@
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-3
-                p.mb-0 Disposición en secciones rotacionales para manejo forrajero eficiente
+                p.mb-0 Disposición en secciones rotacionales para manejo forrajero eficiente.
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-3
                 p.mb-0 Cada potrero debe contar con sombra (natural o artificial).
@@ -1199,7 +1199,7 @@
                     i.fas.fa-check-circle.bg-color-3
                     p.mb-0 Área de aislamiento para animales enfermos o en observación.
 
-    p.mb-5 Una correcta distribución entre estas zonas evita interferencias operativas, reduce riesgos sanitarios y mejora la calidad del entorno para el équido.l.
+    p.mb-5 Una correcta distribución entre estas zonas evita interferencias operativas, reduce riesgos sanitarios y mejora la calidad del entorno para el équido.
 
     h3.text-white.d-lg-inline.bg-color-12.p-3.tarjeta Flujo ideal del animal (secuencia operativa eficiente)
 

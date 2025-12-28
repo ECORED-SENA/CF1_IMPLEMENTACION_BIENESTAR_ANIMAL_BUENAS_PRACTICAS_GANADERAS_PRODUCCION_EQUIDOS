@@ -42,30 +42,30 @@
                   ul.lista-ul--color
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Reino: Animalia
+                      p.mb-0 Reino: animalia
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Filo: Chordata
+                      p.mb-0 Filo: chordata
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Clase: Mammalia
+                      p.mb-0 Clase: mammalia
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Orden: Perissodactyla
+                      p.mb-0 Orden: perissodactyla
                 .col-lg-6.mb-3.mb-lg-0
                   ul.lista-ul--color
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Familia: Equidae
+                      p.mb-0 Familia: equidae
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Género: Equus
+                      p.mb-0 Género: #[em Equus]
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Especie: Equus ferus
+                      p.mb-0 Especie: #[em Equus ferus]
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Subespecie: Equus ferus caballus
+                      p.mb-0 Subespecie: #[em Equus ferus caballus]
               
               h5 Características generales:
               ul.lista-ul--color
@@ -97,30 +97,30 @@
                   ul.lista-ul--color
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Reino: Animalia
+                      p.mb-0 Reino: animalia
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Filo: Chordata
+                      p.mb-0 Filo: chordata
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Clase: Mammalia
+                      p.mb-0 Clase: mammalia
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Orden: Perissodactyla
+                      p.mb-0 Orden: perissodactyla
                 .col-lg-6.mb-3.mb-lg-0
                   ul.lista-ul--color
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Familia: Equidae
+                      p.mb-0 Familia: equidae
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Género: Equus
+                      p.mb-0 Género: #[em Equus]
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Especie: Equus africanus
+                      p.mb-0 Especie: #[em Equus africanus]
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Subespecie: Equus africanus asinus
+                      p.mb-0 Subespecie: #[em Equus africanus asinus]
               
               h5 Características generales:
               ul.lista-ul--color
@@ -152,10 +152,10 @@
                   p.mb-0 No corresponde a una especie; es un híbrido interespecífico.
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
-                  p.mb-0 Madre: Equus ferus caballus (yegua).
+                  p.mb-0 Madre: #[em Equus ferus caballus] (yegua).
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
-                  p.mb-0 Padre: Equus africanus asinus (asno macho).
+                  p.mb-0 Padre: #[em Equus africanus asinus] (asno macho).
               h5 Condición genética:
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -185,13 +185,13 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
-                  p.mb-0 Género: Equus
+                  p.mb-0 Género: #[em Equus]
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
-                  p.mb-0 Especie–subespecie: Equus ferus caballus
+                  p.mb-0 Especie–subespecie: #[em Equus ferus caballus]
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
-                  p.mb-0  No constituye una especie distinta, es una categoría de raza dentro del caballo doméstico.
+                  p.mb-0 No constituye una especie distinta; es una categoría de raza dentro del caballo doméstico.
               h5 Características generales:
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -226,15 +226,15 @@
         tbody
           tr
             td Caballo
-            td Equus ferus
-            td E. ferus caballus
+            td #[em Equus ferus]
+            td #[em E. ferus caballus]
             td Especie doméstica
             td 64
             td Gran variedad de razas
           tr.bg-color-sintesis
             td Asno / Burro
-            td Equus africanus
-            td E. africanus asinus
+            td #[em Equus africanus]
+            td #[em E. africanus asinus]
             td Especie doméstica
             td 62
             td Muy rústico y resistente
@@ -247,7 +247,7 @@
             td Estéril casi siempre
           tr.bg-color-sintesis
             td Pony
-            td Equus ferus caballus
+            td #[em Equus ferus caballus]
             td Raza o variedad
             td Caballo pequeño
             td 64
@@ -264,8 +264,8 @@
 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/yOO8CHN_hhE?si=-yunc_lMSNKc_bi1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+ 
   
     separador
     
@@ -598,7 +598,7 @@
                   p.mb-0 <b>Paso fino</b>: andar en cuatro tiempos, extremadamente suave y rítmico, ideal para cabalgatas largas y exhibiciones.
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
-                  p.mb-0 <b>Trocha y Trocha–Paso</b>: modalidades con mayor velocidad y diagonales marcadas, muy apreciadas en competencias y ferias equinas
+                  p.mb-0 <b>Trocha y Trocha–Paso</b>: modalidades con mayor velocidad y diagonales marcadas, muy apreciadas en competencias y ferias equinas.
               p El Caballo Criollo Colombiano se utiliza ampliamente en ferias, exposiciones, turismo ecuestre, cabalgatas, chalanería y recreación. Su adaptabilidad a terrenos variados y climas tropicales lo convierte en un ejemplar eficiente para trabajos prolongados y prácticas de equitación.
                
           .row.align-items-center.p-4.p-md-5
@@ -607,7 +607,7 @@
                 img(src="@/assets/curso/tema1/17.png")
             .col-lg-7.order-lg-1
               h5 Paso Fino Colombiano (modalidad especializada)
-              p Aunque es una modalidad del Criollo, ha adquirido un estatus propio por su especialización y reconocimiento internacional.
+              p Aunque es una modalidad del criollo, ha adquirido un estatus propio por su especialización y reconocimiento internacional.
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
@@ -631,7 +631,7 @@
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
                   p.mb-0 Posee gran agilidad para giros, frenadas y maniobras precisas.
-              h5 En Colombia se emplea principalmente en::
+              h5 En Colombia se emplea principalmente en:
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
@@ -644,7 +644,7 @@
                   p.mb-0 Rodeo, coleo, barriles y prácticas de campo.
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
-                  p.mb-0 Salto, doma y actividades deportivas recreativas..
+                  p.mb-0 Salto, doma y actividades deportivas recreativas.
       
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
@@ -657,7 +657,7 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
-                  p.mb-0 Linaje ancestral valorado por su resistencia física, recuperación rápida, inteligencia y elegancia
+                  p.mb-0 Linaje ancestral valorado por su resistencia física, recuperación rápida, inteligencia y elegancia.
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
                   p.mb-0 Es la raza predilecta para endurance, con recorridos de hasta 160 km en competencia.
@@ -702,7 +702,7 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
-                  p.mb-0 Las mulas (cruza entre yegua y burro) combinan fuerza y resistencia, siendo seguras en caminos escarpados y de bajo mantenimiento
+                  p.mb-0 Las mulas (cruza entre yegua y burro) combinan fuerza y resistencia, siendo seguras en caminos escarpados y de bajo mantenimiento.
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
                   p.mb-0 Los asnos aportan resistencia a climas secos, capacidad para economizar energía y gran rusticidad.
@@ -727,7 +727,7 @@
                 img(src="@/assets/curso/tema1/22.png")
             .col-lg-7.order-lg-1
               h5 Ponis (<em>Shetland</em>, ponis de montaña y otros)
-              p Los ponis no constituyen una especie distinta, sino una variante de talla pequeña del caballo, con altura inferior a 1.47 m
+              p Los ponis no constituyen una especie distinta, sino una variante de talla pequeña del caballo, con altura inferior a 1.47 m.
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
@@ -815,7 +815,7 @@
               figure
                 img(src="@/assets/curso/tema1/25.png")
             .col-lg-7.order-lg-1
-              h5 agropecuarias
+              h5 Agropecuarias
               p Apoyan labores como:
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -827,7 +827,7 @@
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
                   p.mb-0 Tracción ligera.
-              p Su resistencia y adaptabilidad los hace valiosos en fincas ganaderas, cafeteras y agrícolas.
+              p Su resistencia y adaptabilidad los hacen valiosos en fincas ganaderas, cafeteras y agrícolas.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
@@ -845,7 +845,7 @@
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
                   p.mb-0 Herreros, talabarteros, cuidadores y comerciantes.
-              p Ferias equinas en Antioquia, Valle del Cauca, Cundinamarca, Meta, Cesar y los Llanos dinamizan comercio y turismo
+              p Ferias equinas en Antioquia, Valle del Cauca, Cundinamarca, Meta, Cesar y los Llanos dinamizan comercio y turismo.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
