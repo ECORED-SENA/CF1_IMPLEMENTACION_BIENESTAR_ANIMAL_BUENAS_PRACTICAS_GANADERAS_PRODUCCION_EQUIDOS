@@ -42,30 +42,30 @@
                   ul.lista-ul--color
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Reino: animalia
+                      p.mb-0 Reino: animalia.
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Filo: chordata
+                      p.mb-0 Filo: chordata.
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Clase: mammalia
+                      p.mb-0 Clase: mammalia.
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Orden: perissodactyla
+                      p.mb-0 Orden: perissodactyla.
                 .col-lg-6.mb-3.mb-lg-0
                   ul.lista-ul--color
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Familia: equidae
+                      p.mb-0 Familia: equidae.
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Género: #[em Equus]
+                      p.mb-0 Género: #[em equus].
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Especie: #[em Equus ferus]
+                      p.mb-0 Especie: #[em equus ferus].
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Subespecie: #[em Equus ferus caballus]
+                      p.mb-0 Subespecie: #[em equus ferus caballus].
               
               h5 Características generales:
               ul.lista-ul--color
@@ -97,16 +97,16 @@
                   ul.lista-ul--color
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Reino: animalia
+                      p.mb-0 Reino: animalia.
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Filo: chordata
+                      p.mb-0 Filo: chordata.
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Clase: mammalia
+                      p.mb-0 Clase: mammalia.
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Orden: perissodactyla
+                      p.mb-0 Orden: perissodactyla.
                 .col-lg-6.mb-3.mb-lg-0
                   ul.lista-ul--color
                     li.mb-0.d-flex
@@ -114,13 +114,13 @@
                       p.mb-0 Familia: equidae
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Género: #[em Equus]
+                      p.mb-0 Género: #[em equus].
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Especie: #[em Equus africanus]
+                      p.mb-0 Especie: #[em equus africanus].
                     li.mb-0.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Subespecie: #[em Equus africanus asinus]
+                      p.mb-0 Subespecie: #[em equus africanus asinus].
               
               h5 Características generales:
               ul.lista-ul--color
@@ -152,10 +152,10 @@
                   p.mb-0 No corresponde a una especie; es un híbrido interespecífico.
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
-                  p.mb-0 Madre: #[em Equus ferus caballus] (yegua).
+                  p.mb-0 Madre: #[em equus ferus caballus] (yegua).
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
-                  p.mb-0 Padre: #[em Equus africanus asinus] (asno macho).
+                  p.mb-0 Padre: #[em equus africanus asinus] (asno macho).
               h5 Condición genética:
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -185,10 +185,10 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
-                  p.mb-0 Género: #[em Equus]
+                  p.mb-0 Género: #[em equus].
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
-                  p.mb-0 Especie–subespecie: #[em Equus ferus caballus]
+                  p.mb-0 Especie-subespecie: #[em equus ferus caballus].
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
                   p.mb-0 No constituye una especie distinta; es una categoría de raza dentro del caballo doméstico.
@@ -415,14 +415,14 @@
                 ul.lista-ul--color
                   li.mb-0.d-flex
                     i.fas.fa-check-circle.bg-color-3
-                    p.mb-0 Gran potencia aeróbica
+                    p.mb-0 Gran potencia aeróbica.
                   li.mb-0.d-flex
                     i.fas.fa-check-circle.bg-color-3
-                    p.mb-0 Recuperación rápida
+                    p.mb-0 Recuperación rápida.
                   li.mb-0.d-flex
                     i.fas.fa-check-circle.bg-color-3
-                    p.mb-0 Resistencia prolongada al esfuerzo físico
-                p.mb-5 Esta fisiología es clave en disciplinas como salto, trocha, endurance, coleo y arriería.
+                    p.mb-0 Resistencia prolongada al esfuerzo físico.
+                p.mb-0 Esta fisiología es clave en disciplinas como salto, trocha, endurance, coleo y arriería.
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -698,7 +698,6 @@
                 img(src="@/assets/curso/tema1/21.png")
             .col-lg-7.order-lg-1
               h5 Mulas y asnos (burros)
-              p Mulas y asnos (burros)
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
@@ -838,10 +837,10 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
-                  p.mb-0 Criadores, entrenadores y montadores
+                  p.mb-0 Criadores, entrenadores y montadores.
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
-                  p.mb-0 Veterinarios y zootecnistas
+                  p.mb-0 Veterinarios y zootecnistas.
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-3
                   p.mb-0 Herreros, talabarteros, cuidadores y comerciantes.

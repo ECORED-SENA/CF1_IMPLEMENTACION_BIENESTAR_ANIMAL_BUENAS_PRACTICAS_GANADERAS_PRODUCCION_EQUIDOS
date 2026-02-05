@@ -56,7 +56,7 @@
     
     p En Colombia, estas prácticas se operacionalizan mediante:
 
-    ul.lista-ul--color
+    ul.lista-ul--color.mb-5
       li.mb-0.d-flex
         i.fas.fa-check-circle.bg-color-3
         p.mb-0 <b>Listas de chequeo del ICA</b> (como el formato 3-1099), que evalúan aspectos de sanidad, bioseguridad, instalaciones, alimentación, manejo y registros.

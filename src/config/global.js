@@ -154,7 +154,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF01_DU.pdf',
+        download: 'downloads/72312199_CF01_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -371,6 +371,11 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Líder del ecosistema',
+          centro: 'Dirección General',
+        },
+        {
           nombre: 'Olga Constanza Bermudez Jaimes',
           cargo: 'Responsable de línea de producción',
           centro: 'Dirección General',
@@ -424,6 +429,12 @@ export default {
         {
           nombre: 'Daniela Muñoz Bedoya',
           cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'José Eduardo Solano Rivero',
+          cargo: 'Animador y productor audiovisual',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
